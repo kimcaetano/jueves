@@ -1,0 +1,12 @@
+/* CSS GRID */
+/* **************************************************************** */
+/* VARIABLES */
+
+:root{
+display: grid;
+}
+
+/* BASEGRID */
+#contenido{
+    display: grid;
+}
